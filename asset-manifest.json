@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-animated/static/js/main.706bd041.chunk.js",
+    "main.js.map": "/react-animated/static/js/main.706bd041.chunk.js.map",
+    "runtime-main.js": "/react-animated/static/js/runtime-main.d1e3257c.js",
+    "runtime-main.js.map": "/react-animated/static/js/runtime-main.d1e3257c.js.map",
+    "static/js/2.015749a5.chunk.js": "/react-animated/static/js/2.015749a5.chunk.js",
+    "static/js/2.015749a5.chunk.js.map": "/react-animated/static/js/2.015749a5.chunk.js.map",
+    "index.html": "/react-animated/index.html",
+    "static/js/2.015749a5.chunk.js.LICENSE.txt": "/react-animated/static/js/2.015749a5.chunk.js.LICENSE.txt",
+    "static/media/apli.9baf34dd.png": "/react-animated/static/media/apli.9baf34dd.png",
+    "static/media/book.fe56b9c0.png": "/react-animated/static/media/book.fe56b9c0.png",
+    "static/media/woman.ced9b720.png": "/react-animated/static/media/woman.ced9b720.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e3257c.js",
+    "static/js/2.015749a5.chunk.js",
+    "static/js/main.706bd041.chunk.js"
+  ]
+}
